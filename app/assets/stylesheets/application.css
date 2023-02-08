@@ -1,4 +1,12 @@
-/*
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+
+:root {
+  --swiper-navigation-color: #ffffff;
+  --swiper-pagination-color: #ffffff;
+}/*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
  * listed below.
  *
